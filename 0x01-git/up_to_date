@@ -2,3 +2,5 @@ git add .
 touch
 git checkout 
 git commit -m
+git pull
+git push
