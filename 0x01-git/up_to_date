@@ -1,0 +1,4 @@
+git add .
+touch
+git checkout 
+git commit -m
